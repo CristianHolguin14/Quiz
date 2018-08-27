@@ -1,0 +1,30 @@
+body {
+font-size: 30px;
+ display: block;
+ width: 94.5%;
+ margin:-22px 30px 0p;
+ background-color: none;
+ padding: 0.02px 20px 6px;
+border-radius: 4px 4px 0px 0px;
+-moz-border-radius: 4px 4px 0px 0px;
+-webkit-border-radius: 4px 4px 0px 0px;
+border: 8px solid #000000;
+font-family: calibri;
+color: #3d3c3c;
+background-color: #d2def2;
+}
+
+p {
+	margin: 0;
+	padding: 2rem 0;
+	text-align: center;
+}
+
+button {
+background-color: #ff5459;
+padding: 10px;
+font-weight: 90;
+font-size: 18px;   
+border-radius: 6px;
+border: 2px solid #ff5459;
+}
